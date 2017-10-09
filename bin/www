@@ -3,7 +3,7 @@
 /**
  * Module dependencies.
  */
-
+//abstraction to require server
 var app = require('../app');
 var debug = require('debug')('my-app:server');
 var http = require('http');
